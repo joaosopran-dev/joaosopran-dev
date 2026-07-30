@@ -31,6 +31,7 @@
 ### 🌐 Frameworks & Bibliotecas
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -53,7 +54,7 @@
 
 | Categoria | Tecnologias | Nível |
 |-----------|-------------|-------|
-| **Backend** | PHP, Laravel, Java | Intermediário |
+| **Backend** | PHP, Laravel, Java, Spring Boot | Intermediário |
 | **Frontend** | Blade, HTML, CSS, JavaScript | Básico |
 | **Banco de Dados** | MySQL, SQLite | Intermediário |
 | **DevOps** | Docker, Git, Linux | Intermediário |
@@ -63,7 +64,44 @@
 
 ## 📚 Formação em Andamento
 
+### Java 25 e Spring Boot 4 — Programação Orientada a Objetos e Desenvolvimento Web
+
+Curso completo de Java do básico ao avançado, com projetos laboratoriais e aplicações reais. 100% compatível com a versão LTS atual do Java.
+
+**O que você aprenderá:**
+
+- Dominar Programação Orientada a Objetos e linguagem Java
+- Criar soluções flexíveis, extensíveis e testáveis
+- Aplicar o conhecimento de orientação a objetos na construção de soluções para problemas reais
+- Compreender diagramas de classe UML, tanto de entidades quanto de serviços
+- Desenvolver aplicações para desktop com interface gráfica (JavaFX)
+- Construir web services usando Spring Boot e boas práticas
+- Acessar banco de dados relacionais com comandos SQL (JDBC) e também com ORM (JPA/Hibernate)
+- Acessar banco de dados NoSQL (MongoDB)
+- Utilizar Maven para gerenciamento de dependências
+- Git/GitHub para versionamento
+
+**Conteúdo coberto:**
+
+| Módulo | Tópicos |
+|--------|---------|
+| 🏗️ Fundamentos | Lógica de programação, sintaxe Java, classes, atributos e métodos |
+| 🔧 POO | Construtores, sobrecarga, encapsulamento, herança, polimorfismo, interfaces |
+| 📦 Estruturas de Dados | Arrays, coleções, enumerações, composição |
+| ⚠️ Exceções | Tratamento de exceções |
+| 🧬 Generics | Generics |
+| 🌊 Programação Funcional | Expressões lambda, Stream API |
+| 📁 Arquivos | Manipulação de arquivos |
+| 🗄️ Persistência | JDBC, JPA/Hibernate, Spring Data JPA, Spring Data MongoDB |
+| 🌐 Web | Spring Boot, web services |
+| 🖥️ Desktop | JavaFX |
+| 🔧 Build | Maven |
+| 📝 Versionamento | Git/GitHub |
+
+> *Curso voltado para capacitação profissional no ecossistema Java*
+
 ### Laravel 11 & 12 — Framework, Ecossistema e Projetos Web
+
 Curso completo de Laravel do básico ao avançado, com projetos laboratoriais e aplicações reais.
 
 **Conteúdo coberto:**
