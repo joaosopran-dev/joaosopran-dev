@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨💻 Sobre mim
 
 - 🏢 Trabalho na **EGSYS** — empresa de tecnologia voltada à **segurança pública**, desenvolvendo um sistema de registro de ocorrências para **web e mobile**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — 4º período
@@ -22,12 +22,25 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 💻 Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🌐 Frameworks & Bibliotecas
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### 🗄️ Banco de Dados
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🔧 Ferramentas & DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -36,10 +49,21 @@
 
 ---
 
+## 📊 Nível de Proficiência
+
+| Categoria | Tecnologias | Nível |
+|-----------|-------------|-------|
+| **Backend** | PHP, Laravel, Java | Intermediário |
+| **Frontend** | Blade, HTML, CSS, JavaScript | Básico |
+| **Banco de Dados** | MySQL, SQLite | Intermediário |
+| **DevOps** | Docker, Git, Linux | Intermediário |
+| **Ferramentas** | VSCode, Composer, Laragon | Intermediário |
+
+---
+
 ## 📚 Formação em Andamento
 
 ### Laravel 11 & 12 — Framework, Ecossistema e Projetos Web
-
 Curso completo de Laravel do básico ao avançado, com projetos laboratoriais e aplicações reais.
 
 **Conteúdo coberto:**
@@ -96,6 +120,9 @@ Curso completo de Laravel do básico ao avançado, com projetos laboratoriais e 
   <a href="https://github.com/joaosopran-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/joaosopran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -103,3 +130,7 @@ Curso completo de Laravel do básico ao avançado, com projetos laboratoriais e 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaosopran-dev&color=3B82F6&style=flat-square&label=Visitas+ao+perfil" />
 </p>
+
+---
+
+> *"Construindo soluções reais, uma linha de código de cada vez."*
